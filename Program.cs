@@ -4,7 +4,7 @@ namespace EmpWage
     {
         public static void Main(string[] args)
         {
-            PartTimeEmployee.PartTime();
+            SwitchCase.SwitchProb();
         }
     }
 }
