@@ -4,7 +4,7 @@ namespace EmpWage
     {
         public static void Main(string[] args)
         {
-            WagesForMonth.CalculateForMonth();
+            WagesForMonth.CalculateWages();
             //TotalWhd.CalculateTot();
         }
     }
