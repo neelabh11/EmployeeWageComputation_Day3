@@ -4,7 +4,8 @@ namespace EmpWage
     {
         public static void Main(string[] args)
         {
-            TotalWhd.CalculateTot();
+            PartTimeEmployee partTimeEmployee = new PartTimeEmployee();
+            partTimeEmployee.PartTime();
         }
     }
 }
